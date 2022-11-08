@@ -1,2 +1,2 @@
 # odin-recipes
-Project: Recipes
+This project will create a webpage of recipes
